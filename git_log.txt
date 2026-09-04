@@ -1,0 +1,63 @@
+commit a15df3fcc6de507a7f6d87a01b2ae206b46e6366
+Merge: 86904ae 460de9a
+Author: jtorre331 <jtorre331@calstatela.edu>
+Date:   Fri Sep 4 11:48:41 2026 -0700
+
+    Merge branch 'main' of https://github.com/jtorre331/CS3338-second-project
+
+commit 86904aea9006255ffc226f2ffe38e26fabaf58b2
+Author: jtorre331 <jtorre331@calstatela.edu>
+Date:   Fri Sep 4 11:44:33 2026 -0700
+
+    Fixed conflicts and joined both movie, food and game and fixed typo
+
+commit 5795d0759428aaf38a2c9ac2c9f18e18d601478e
+Merge: db25dd0 111952d
+Author: jtorre331 <jtorre331@calstatela.edu>
+Date:   Fri Sep 4 11:41:30 2026 -0700
+
+    Fixed conflicts and joined both movie, food and game
+
+commit 111952d5db7074a5e16a6872e5720573aa9069fb
+Author: jtorre331 <jtorre331@calstatela.edu>
+Date:   Fri Sep 4 11:37:30 2026 -0700
+
+    Added my favorite game and movie
+
+commit db25dd06d9bdbbe75058abcd1cb46e26775257bd
+Author: jtorre331 <jtorre331@calstatela.edu>
+Date:   Fri Sep 4 11:34:46 2026 -0700
+
+    Added a new div with my favorite food
+
+commit 460de9ae9c8df6aa38393ca4e850160aaa79a571
+Author: jtorre331 <jtorre331@calstatela.edu>
+Date:   Fri Sep 4 11:33:41 2026 -0700
+
+    I messed up
+    
+    Updated personal information placeholders in index.html.
+
+commit c6d71ce46627befab71bddb870f3fc0f47a6a606
+Author: jtorre331 <jtorre331@calstatela.edu>
+Date:   Fri Sep 4 11:31:59 2026 -0700
+
+    Update personal information in index.html
+
+commit 74f3b114719d0f2d9f4200a5496e0786cdaba7ff
+Author: jtorre331 <jtorre331@calstatela.edu>
+Date:   Fri Sep 4 11:23:00 2026 -0700
+
+    Added read me to repo
+
+commit 50ad7cb0551a6a9148bfd8869b575f637fa660cf
+Author: jtorre331 <jtorre331@calstatela.edu>
+Date:   Fri Sep 4 11:15:27 2026 -0700
+
+    filled the blanks
+
+commit 1d2bfc0c7ca5c63bb12bd6add9fed720c852ae70
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Wed Aug 28 01:13:39 2024 -0700
+
+    Added index.html
